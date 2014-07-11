@@ -1,5 +1,5 @@
 ## This is a markdown file
 
-~~Hello Wrld~~
-*Hello World*
-__Hello World__
+1. ~~Hello Wrld~~
+1. *Hello World*
+1. __Hello World__
